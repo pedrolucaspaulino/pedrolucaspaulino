@@ -1,6 +1,6 @@
 <h1>Hey there, I'm Pedro Paulino!</h1>
 <p><h2>About me</h2></p>
-- 🔭 I’m currently taking a technical course at UFV
+- 🔭 I’m currently taking a technical course at UFV<br>
 - 🌱 I’m currently learning C, Javascript, HTML and CSS
 <br></br>
 <div>
