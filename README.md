@@ -1,8 +1,8 @@
 <h1>Hey there, I'm Pedro Paulino!</h1>
 <p><h2>About me</h2></p>
-- 🔭 I’m currently taking a technical course at UFV<br>
+- 🔭 I’m currently taking a technical course at UFV
 - 🌱 I’m currently learning C, Javascript, HTML and CSS
-
+<br></br>
 <div>
   <a href="https://github.com/PLPaulino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PLPaulino&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
